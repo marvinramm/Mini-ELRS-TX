@@ -1,0 +1,18 @@
+designators,description,manufacturer_part,package,qty
+IC1,SPI flash 4 MB,W25Q32JVZPIQ,WSON-8 8x6 mm,1
+IC2,Wi-Fi/Bluetooth SoC,ESP32-D0WDQ6,QFN-48 6x6 mm,1
+IC3,3.3 V 1 A LDO,AMS1117-3.3,SOT-223,1
+TX1,SX1280 2.4 GHz LoRa module 12.5 dBm,Ebyte E28-2G4M12S,SMD 25x14 mm,1
+J1,U.FL connector (Wi-Fi/BT antenna),Hirose U.FL-R-SMT-1(80),SMD,1
+L1,40 MHz crystal 3225,S3240000121040,SMD 3225,1
+C2 C3 C4 C5 C7,100 nF 16 V,,0402,5
+C6,1 µF 16 V,,0402,1
+C13,4.7 µF,,0603,1
+C14 C15,10 µF,,0603,2
+C1,100 pF,,0402,1
+C11 C12,12 pF,,0402,2
+C10,3 nF,,0402,1
+C9,10 nF,,0402,1
+C8,5.6 pF,,0402,1
+R2 R3,10 kΩ,,0402,2
+R4,20 kΩ,,0402,1
